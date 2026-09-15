@@ -2,9 +2,10 @@
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
-| [Name 1]         | [Email 1]           |
+| Adam Shalabi         | adamshal@seas.upenn.edu           |
 
 **GitHub Repository URL:** 
+https://github.com/adamshal/adam-lab0
 
 ## 1. Sample Header
 
