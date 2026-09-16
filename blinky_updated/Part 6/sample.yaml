@@ -1,0 +1,9 @@
+sample:
+  name: ESE 5180 Lab 0
+tests:
+  sample.ese5180.lab0:
+    tags:
+      - console
+      - logging
+    integration_platforms:
+      - nrf7002dk/nrf5340/cpuapp
