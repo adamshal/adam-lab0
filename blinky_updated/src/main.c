@@ -4,12 +4,11 @@
 #define SLEEP_TIME_MS   20
 
 
-#define BUTTON_NODE DT_ALIAS(sw0)
+#define BUTTON5180_NODE DT_ALIAS(button5180)
 
 /*
 static const struct gpio_dt_spec led = GPIO_DT_SPEC_GET(LED5180_NODE, gpios);
-static const struct gpio_dt_spec button = GPIO_DT_SPEC_GET(BUTTON_NODE, gpios);
-
+static const struct gpio_dt_spec button = GPIO_DT_SPEC_GET(BUTTON5180_NODE, gpios);
 	int ret;
 	bool led_state = true;
 	bool led_state = false;
