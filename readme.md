@@ -12,8 +12,12 @@ https://github.com/adamshal/adam-lab0
 <img width="1122" height="831" alt="Screenshot 2026-09-15 at 7 18 29 PM" src="https://github.com/user-attachments/assets/4851dc8c-8d5c-487e-93af-ab0b59958f8a" />
 
 
-## 6.1 Sum Screenshots 
+## 6.1 Printing/Logging
 
 <img width="1505" height="505" alt="Screenshot 2026-09-16 at 3 55 58 PM" src="https://github.com/user-attachments/assets/ccf0e56e-9af0-4b9f-863d-e7b156668a63" />
 
 <img width="1407" height="601" alt="Screenshot 2026-09-16 at 4 02 32 PM" src="https://github.com/user-attachments/assets/3940d40b-c75d-46d9-b985-72b133253a76" />
+
+## 7.2 Ztest for Unit Testing 
+
+<img width="698" height="892" alt="Screenshot 2026-09-17 at 4 24 22 PM" src="https://github.com/user-attachments/assets/4b36bc9e-c9bb-481a-be8a-ca6629366c33" />
