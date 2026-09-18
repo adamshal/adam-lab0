@@ -1,0 +1,16 @@
+/ {
+	test_i2c: i2c@11112222 {
+		compatible = "vnd,i2c";
+		status = "okay";
+		clock-frequency = <100000>;
+		#address-cells = <1>;
+		#size-cells = <0>;
+		reg = <0x11112222 0x1000>;
+
+		bme280: bme280@77 {
+			compatible = "vnd,i2c-device";
+			status = "okay";
+			reg = <0x77>;
+		};
+	};
+};

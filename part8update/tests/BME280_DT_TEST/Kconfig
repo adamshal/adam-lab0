@@ -1,0 +1,3 @@
+mainmenu "BME280 devicetree test"
+
+source "Kconfig.zephyr"
