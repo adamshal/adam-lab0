@@ -21,3 +21,14 @@ https://github.com/adamshal/adam-lab0
 ## 7.2 Ztest for Unit Testing 
 
 <img width="698" height="892" alt="Screenshot 2026-09-17 at 4 24 22 PM" src="https://github.com/user-attachments/assets/4b36bc9e-c9bb-481a-be8a-ca6629366c33" />
+
+## 8.1 Temperature Sensing Print Output
+
+<img width="668" height="464" alt="8 1 print" src="https://github.com/user-attachments/assets/57600d29-1950-4b8a-941a-2c4db274ef38" />
+
+
+## 8.2 Ztest Temperature Sensing
+
+<img width="1025" height="715" alt="8 2 Ztest Output" src="https://github.com/user-attachments/assets/4b6f4a57-46ac-477b-8347-0c1540a58943" />
+
+
